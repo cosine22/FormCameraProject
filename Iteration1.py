@@ -1,4 +1,4 @@
-#Code for finding multiple colored pixels at a time
+# Code for finding multiple colored pixels at a time
 
 import numpy as np
 import cv2

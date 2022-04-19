@@ -1,4 +1,4 @@
-# After image processing and pixel averages calculated, this performs
+#After image processing and pixel averages calculated, this performs
 # cartesian calculations to find where colors are in relation to each other
 # and assigns these colors to different joints to give advice
 

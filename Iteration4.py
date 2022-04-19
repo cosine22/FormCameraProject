@@ -1,4 +1,4 @@
-# Combining the color filters with lots of post processing
+#Combining the color filters with lots of post processing
 
 import numpy as np
 import cv2

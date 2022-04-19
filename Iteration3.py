@@ -1,4 +1,4 @@
-# Saves a video and then does post video analysis of the pixels
+#Saves a video and then does post video analysis of the pixels
 
 import numpy as np
 import cv2
